@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Jose Gonzalez",
+        "born":"20/5/95",
+        "dni":"40056999",
+        "file":"123",
+        "gender":"Male"
+    },
+    {
+        "name":"Manuel Ramirez",
+        "born":"20/5/90",
+        "dni":"41000999",
+        "file":"145",
+        "gender":"Male"
+    },
+    {
+        "name":"Roman Perotti",
+        "born":"20/5/93",
+        "dni":"39005978",
+        "file":"234",
+        "gender":"Male"
+    }
+]
